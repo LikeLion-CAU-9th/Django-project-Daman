@@ -2,7 +2,7 @@
 
 
 # Django_project_Daman
-Giman러들의 Daman😎✨
+**Giman러**들의 **Daman**😎✨
 
 ## Contributor
 - Likelion in Chungang University
