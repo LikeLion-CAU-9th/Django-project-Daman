@@ -4,6 +4,16 @@
 # Django_project_Daman
 Giman러들의 Daman😎✨
 
+## Contributor
+- Likelion in Chungang University
+ 
+|    Name    | Email                                        |
+| :-----------: | :------------------------------------------------- |
+|    인세훈     | dlstpgns0406@gmail.com |
+|    최윤한     | unusualc@likelion.org |
+|    민정호     | alswjdgh5095@gmail.com |
+|    정설희     | jhj01177@cau.ac.kr |
+ 
 ## Idea building
 ### Idea list
    - [ ] 홈쇼핑 모델 
@@ -35,12 +45,6 @@ Giman러들의 Daman😎✨
 | 2   | 설희 | 세훈 |
 
 
-# Webeing Services
-
-Webeing is a platform to provide food and other stuff which is closed with the expired day with the low prices So We can save the Earth, too.
-
-## Contributor
-- Likelion in Chungang University
 
 ## Branch structure
 
