@@ -1,5 +1,8 @@
 ![](https://img.shields.io/badge/django-3.2.2-green)
-
+![](https://img.shields.io/badge/HTML-pink)
+![](https://img.shields.io/badge/CSS-blue)
+![](https://img.shields.io/badge/JS-yellow)
+![](https://img.shields.io/badge/Pillow-8.2.0-red)
 
 # Django_project_Daman
 **Giman러**들의 **Daman**😎✨
