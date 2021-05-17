@@ -96,10 +96,11 @@ git commit -m "text"
 
 #### 4. python
 - class, function 간의 간격은 무조건 2줄
-- def (method)의 경우에 간격은 무조건 1줄
+- class내의 def (method)의 경우에 간격은 무조건 1줄
 
 #### 5. comments
 - 로직, class, function에 대한 설명의 주석 작성
+- 단 가장 중요한 것은 naming을 잘 지을 것.
 - 사용이 안되는 코드의 주석은 무조건 삭제하고 pull request
 
 ## Merge Rule
